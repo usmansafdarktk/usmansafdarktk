@@ -1,4 +1,4 @@
-- 👋 ## Hi, I’m Usman Safder
+## 👋 Hi, I’m Usman Safder
 - 👀 I’m currently pursuing my bachelors in Computer Science
 - 💞️ I’m looking to collaborate on open source projects and to display my own work
 - 📫 Reach me at my email:
