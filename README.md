@@ -4,7 +4,7 @@
 - 📫 Reach me at my email:
   Usmansafderktk@gmail.com
 
-  <p> I will try to regularly use github from now on for atleast 15. </p>
+  <p> I will try to regularly use github from now on for atleast 15 days. </p>
 
 <!---
 usmansafdarktk/usmansafdarktk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
